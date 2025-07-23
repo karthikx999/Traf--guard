@@ -1,0 +1,21 @@
+# Flask and web server
+Flask==2.3.3
+Flask-Cors==4.0.0
+Werkzeug==2.3.7
+gunicorn==21.2.0
+
+# Network monitoring
+scapy==2.5.0
+requests==2.31.0
+
+# Data manipulation
+numpy==1.25.2
+pandas==2.1.0
+
+# Database
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# Utilities
+python-dotenv==1.0.0
+pytz==2023.3
